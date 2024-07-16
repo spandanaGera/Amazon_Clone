@@ -24,7 +24,7 @@
   
     height:50px;
     width:100%;
-    background-image: url("../images/amazon_logo.png");
+    background-image: url("./images/amazon_logo.png");
     background-size:cover;
 }
 .border{
@@ -139,7 +139,7 @@ span{
     width:90%;
 }
 .hero-sec{
-    background-image: url("/images/first.jpg");
+    background-image: url("./images/first.jpg");
     height:340px;
     background-size: cover;
     display:flex;
@@ -341,7 +341,7 @@ ul a{
 }
 /* spandanaGera 15-07-2024 */
 .logo{
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("./images/amazon_logo.png");
     background-size: cover;
     height:50px;
     width:100px;
